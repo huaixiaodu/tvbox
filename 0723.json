@@ -11,7 +11,7 @@
 	}],
 
 "sites":[
-{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_biubiu_Nike影视网","name":"🥒Nike影视网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/Nike影视网.json"},
 ],
 
  "parses": [{
